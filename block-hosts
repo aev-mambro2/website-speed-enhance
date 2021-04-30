@@ -1,0 +1,42 @@
+# This listing contains web addresses of web services known to slow down experiences of visitors and operators.
+# Do not apply this list if you are a website usage analyst or SEO expert: you will find many of your tools broken.
+
+# This list is formatted as a hosts file, for easy copy-pasting.
+127.0.0.1 googlesyndication.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 googletagmanager.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 statcounter.com               #visitor profiling
+127.0.0.1 secure.statcounter.com        #visitor profiling
+127.0.0.1 addthis.com                   #visitor profiling
+127.0.0.1 s7.addthis.com                #visitor profiling
+127.0.0.1 onesignal.com                 #customer profiling
+127.0.0.1 cdn.onesignal.com             #customer profiling
+127.0.0.1 segment.io                    #customer profiling
+127.0.0.1 api.segment.io                #customer profiling
+127.0.0.1 cdn.segment.com               #customer profiling
+127.0.0.1 siftscience.com               #customer profiling
+127.0.0.1 b.siftscience.com             #customer profiling
+127.0.0.1 analytics.shopify.com         #customer profiling
+127.0.0.1 eligibility.wootric.com       #customer profiling
+127.0.0.1 s.getsmartcontent.com         #customer profiling
+127.0.0.1 munchkin.marketo.net          #customer profiling
+127.0.0.1 secure.quantserve.com         #customer profiling
+127.0.0.1 sb.scorecardresearch.com      #customer profiling
+127.0.0.1 cdn.auryc.com                 #customer journies
+127.0.0.1 mt.auryc.com                  #customer journies
+127.0.0.1 uba-api.auryc.com             #customer journies
+127.0.0.1 eu-cdn.walkme.com             #customer journies
+127.0.0.1 eu-playerserver.walkme.com    #customer journies
+127.0.0.1 api.appcues.net               #product adoption journies
+127.0.0.1 static.hotjar.com             #event profiling
+127.0.0.1 monorail-edge.shopifysvc.com  #event profiling
+127.0.0.1 js-agent.newrelic.com         #event profiling
+127.0.0.1 qlicktech.ca1.qualtrics.com   #event profiling
+127.0.0.1 sentry.io                     #event profiling
+127.0.0.1 browser.sentry-cdn.com        #event profiling
+127.0.0.1 collector.githubapp.com       #event profiling

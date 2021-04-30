@@ -43,3 +43,4 @@
 127.0.0.1 sentry.io                     #event profiling
 127.0.0.1 browser.sentry-cdn.com        #event profiling
 127.0.0.1 collector.githubapp.com       #event profiling
+127.0.0.1 api.mixpanel.com              #event profiling

@@ -1,15 +1,210 @@
+
 # This listing contains web addresses of web services known to slow down experiences of visitors and operators.
 # Do not apply this list if you are a website usage analyst or SEO expert: you will find many of your tools broken.
 
 # This list is formatted as a hosts file, for easy copy-pasting.
+127.0.0.1	assoc-na.associates-amazon.com
+127.0.0.1	z-na.associates-amazon.com
+127.0.0.1	pro.ip-api.com
+127.0.0.1	s.ntv.io
+127.0.0.1	api.permutive.com
+127.0.0.1	cdn.permutive.com
+127.0.0.1	cdn.permutive.app
+127.0.0.1	cdn.blueconic.net
+127.0.0.1	idg.blueconic.net
+127.0.0.1	jadserve.postrelease.com
+127.0.0.1	tr.outbrain.com
+127.0.0.1	cdn.onthe.io
+127.0.0.1	tt.onthe.io
+127.0.0.1	yt3.ggpht.com
+127.0.0.1	adthrive.com
+127.0.0.1	ads.adthrive.com
+127.0.0.1	logger.adthrive.com
+127.0.0.1	stats.wp.com
+127.0.0.1	pixel.wp.com
+127.0.0.1	a.pub.network
+127.0.0.1	b.pub.network
+127.0.0.1	c.pub.network
+127.0.0.1	d.pub.network
+127.0.0.1	secure.gravatar.com
+127.0.0.1	search.spotxchange.com
+127.0.0.1	qsearch-a.akamaihd.net
+127.0.0.1	cdn-magiclinks.trackonomics.net
+127.0.0.1	trackonomics.net
+127.0.0.1	adlightning.com
+127.0.0.1	tagan.adlightning.com
+127.0.0.1	colossusssp.com
+127.0.0.1	advertising.com
+127.0.0.1	adtech.advertising.com
+127.0.0.1	adserver-uk.adtech.advertising.com
+127.0.0.1	adserver-us.adtech.advertising.com
+127.0.0.1	api.bounceexchange.com
+127.0.0.1	tag.bounceexchange.com
+127.0.0.1	bounceexchange.com
+127.0.0.1	casalemedia.com
+127.0.0.1	ssum.casalemedia.com
+127.0.0.1	media.net
+127.0.0.1	hblg.media.net
+127.0.0.1	hbx.media.net
+127.0.0.1	prebid.media.net
+127.0.0.1	prebid.adnxs.com
+127.0.0.1	ad-delivery.net
+127.0.0.1	britepool.com
+127.0.0.1	api.britepool.com
+127.0.0.1	cdn.britepool.com
+127.0.0.1	px.britepool.com
+127.0.0.1	connatix.com
+127.0.0.1	capi.connatix.com
+127.0.0.1	cd.connatix.com
+127.0.0.1	cds.connatix.com
+127.0.0.1	cks.connatix.com
+127.0.0.1	img.connatix.com
+127.0.0.1	trustx.org
+127.0.0.1	sofia.trustx.org
+127.0.0.1	connatix-d.openx.net
+127.0.0.1	events.bouncex.net
+127.0.0.1	postback.iqm.com
+127.0.0.1	win.iqm.com
+127.0.0.1	adrta.com
+127.0.0.1	pubmatic.com
+127.0.0.1	aktrack.pubmatic.com
+127.0.0.1	ping.chartbeat.net
+127.0.0.1	static.chartbeat.net
+127.0.0.1amazon-adsystem.com
+127.0.0.1	c.amazon-adsystem.com
+127.0.0.1	ir-na.amazon-adsystem.com
+127.0.0.1	adsafe.com
+127.0.0.1	adsafeprotected.com
+127.0.0.1	cdn.adsafeprotected.com
+127.0.0.1	skimresources.com
+127.0.0.1	p.skimresources.com
+127.0.0.1	r.skimresources.com
+127.0.0.1	s.skimresources.com
+127.0.0.1	t.skimresources.com
+127.0.0.1	parsely.com
+127.0.0.1	cnd.parsely.com
+127.0.0.1	p1.parsely.com
+127.0.0.1	dotmetrics.net
+127.0.0.1	uk-script.dotmetrics.net
+127.0.0.1	us-script.dotmetrics.net
+127.0.0.1	futurecdn.net
+127.0.0.1	bordeaux.futurecdn.net
+127.0.0.1	cms.futurecdn.net
+127.0.0.1	cdn.mos.cms.futurecdn.net
+127.0.0.1	fie.futurecdn.net
+127.0.0.1	mos.fie.futurecdn.net
+127.0.0.1	vanilla.futurecdn.net
+127.0.0.1	slice.vanilla.futurecdn.net
+127.0.0.1future-fie.co.uk
+127.0.0.1	gizmos.future-fie.co.uk
+127.0.0.1	indexww.com
+127.0.0.1	js-sec.indexww.com
+127.0.0.1	consensu.org
+127.0.0.1	mgr.consensu.org
+127.0.0.1	quantcast.mgr.consensu.org
+127.0.0.1	sonobi.com
+127.0.0.1	go.sonobi.com
+127.0.0.1	sync.go.sonobi.com
+127.0.0.1	cdn.districtm.io
+127.0.0.1	creativecdn.com
+127.0.0.1	de.tynt.com
+127.0.0.1	gumgum.com
+127.0.0.1	rtb.gumgum.com
+127.0.0.1	socdm.com
+127.0.0.1	tg.socdm.com
+127.0.0.1	emxdgt.com
+127.0.0.1	cs.emxdgt.com
+127.0.0.1	ssc-cms.33across.com
+127.0.0.1	sync.mathtag.com
+127.0.0.1	sync-tm.everesttech.net
+127.0.0.1	ads.pubmatic.com
+127.0.0.1	api.rlcdn.com
+127.0.0.1	360yield.com
+127.0.0.1	ad.360yield.com
+127.0.0.1	zemanta.com
+127.0.0.1	b1sync.zemanta.com
+127.0.0.1	deepintent.com
+127.0.0.1	match.deepintent.com
+127.0.0.1	sync.ipredictive.com
+127.0.0.1	sync.technoratimedia.com
+127.0.0.1	stackadapt.com
+127.0.0.1	srv.stackadapt.com
+127.0.0.1	sync.srv.stackadapt.com
+127.0.0.1	bidswitch.net
+127.0.0.1	x.bidswitch.net
+127.0.0.1	magnite.com
+127.0.0.1	rubiconproject.com
+127.0.0.1	eus.rubiconproject.com
+127.0.0.1	prebid-server.rubiconproject.com
+127.0.0.1	criteo.com
+127.0.0.1	gum.criteo.com
+127.0.0.1	dotomi.com
+127.0.0.1	purch-match.dotomi.com
+127.0.0.1	openx.net
+127.0.0.1	us-u.openx.net
+127.0.0.1	semasio.net
+127.0.0.1	uipglob.semasio.net
+127.0.0.1	3lift.com
+127.0.0.1	eb2.3lift.com
+127.0.0.1	adnxs.com
+127.0.0.1	ib.adnxs.com
+127.0.0.1	secure.adnxs.com
+127.0.0.1	bnmla.com
+127.0.0.1	match.bnmla.com
+127.0.0.1	adsrvr.org
+127.0.0.1	match.adsrvr.org
+127.0.0.1	insight.adsrvr.org
+127.0.0.1	1rx.io
+127.0.0.1	sync.1rx.io
+127.0.0.1rfihub.com
+127.0.0.1	p.rfihub.com
+127.0.0.1contextweb.com
+127.0.0.1	bh.contextweb.com
+127.0.0.1	smrtb.com
+127.0.0.1	ssl-market-east.smrtb.com
+127.0.0.1	advangelists.com
+127.0.0.1	nep.advangelists.com
+127.0.0.1	doubleverify.com
+127.0.0.1	ads.servebom.com
+127.0.0.1	pixel.servebom.com
+127.0.0.1	stags.bluekai.com
+127.0.0.1	tags.bluekai.com
+127.0.0.1	s0.2mdn.net
+127.0.0.1	g.bidbrain.app
+127.0.0.1	rtb.adentifi.com
+127.0.0.1	cas.avalon.perfdrive.com
+127.0.0.1	pixel.keywee.co
+127.0.0.1	cdn.keywee.co
+127.0.0.1	adservice.google.com
+127.0.0.1	tags.blrtx.com
+127.0.0.1	tags.bkrtx.com
+127.0.0.1	i.clean.gg
+127.0.0.1	jwpcdn.com
+127.0.0.1	ssl.p.jwpcdn.com
+127.0.0.1	cdn.jwplayer.com
+127.0.0.1	content.jwplatform.com
+127.0.0.1	assets-jpcust.jwpsrv.com
+127.0.0.1	prd.jwpltx.com
+127.0.0.1	entitlements.jwplayer.com
+127.0.0.1	doubleclick.net
+127.0.0.1	ad.doubleclick.net
+127.0.0.1	cm.g.doubleclick.net
+127.0.0.1	googleads.g.doubleclick.net
+127.0.0.1	googleads4.g.doubleclick.net
+127.0.0.1	pubads.g.doubleclick.net
+127.0.0.1	securepubads.g.doubleclick.net
+127.0.0.1	static.doubleclick.net
 127.0.0.1 googlesyndication.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1	tpc.googlesyndication.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1	imasdk.googleapis.com
 127.0.0.1 google-analytics.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 www.googletagmanager.com
+127.0.0.1	www.googletagservices.com
 127.0.0.1 statcounter.com               #visitor profiling
 127.0.0.1 secure.statcounter.com        #visitor profiling
 127.0.0.1 addthis.com                   #visitor profiling
@@ -36,7 +231,7 @@
 127.0.0.1 uba-api.auryc.com             #customer journies
 127.0.0.1 eu-cdn.walkme.com             #customer journies
 127.0.0.1 eu-playerserver.walkme.com    #customer journies
-127.0.0.1 api.appcues.net               #product adoption journies
+127.0.0.1 api.appcues.net               #product adoption journeys
 127.0.0.1 static.hotjar.com             #event profiling
 127.0.0.1 monorail-edge.shopifysvc.com  #event profiling
 127.0.0.1 js-agent.newrelic.com         #event profiling

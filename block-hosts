@@ -1,6 +1,7 @@
 
 # This listing contains web addresses of web services known to slow down experiences of visitors and operators.
 # Do not apply this list if you are a website usage analyst or SEO expert: you will find many of your tools broken.
+# List source: https://github.com/aev-mambro2/website-speed-enhance/edit/main/block-hosts
 
 # This list is formatted as a hosts file, for easy copy-pasting.
 127.0.0.1	assoc-na.associates-amazon.com
@@ -16,7 +17,7 @@
 127.0.0.1	tr.outbrain.com
 127.0.0.1	cdn.onthe.io
 127.0.0.1	tt.onthe.io
-127.0.0.1	yt3.ggpht.com
+# 127.0.0.1	yt3.ggpht.com #Don't block this: it is a YouTube CDN.
 127.0.0.1	adthrive.com
 127.0.0.1	ads.adthrive.com
 127.0.0.1	logger.adthrive.com
@@ -95,7 +96,7 @@
 127.0.0.1	mos.fie.futurecdn.net
 127.0.0.1	vanilla.futurecdn.net
 127.0.0.1	slice.vanilla.futurecdn.net
-127.0.0.1future-fie.co.uk
+127.0.0.1	future-fie.co.uk
 127.0.0.1	gizmos.future-fie.co.uk
 127.0.0.1	indexww.com
 127.0.0.1	js-sec.indexww.com
@@ -156,9 +157,9 @@
 127.0.0.1	insight.adsrvr.org
 127.0.0.1	1rx.io
 127.0.0.1	sync.1rx.io
-127.0.0.1rfihub.com
+127.0.0.1	rfihub.com
 127.0.0.1	p.rfihub.com
-127.0.0.1contextweb.com
+127.0.0.1	contextweb.com
 127.0.0.1	bh.contextweb.com
 127.0.0.1	smrtb.com
 127.0.0.1	ssl-market-east.smrtb.com
